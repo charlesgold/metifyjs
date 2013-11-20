@@ -61,6 +61,7 @@ To be placed inside of Shopify product description (example only)
 
 ## Resource which may be useful
 http://www.shopify.com/?ref=charlietopjian
+
 http://docs.shopify.com/themes/liquid-variables/product
 
 
