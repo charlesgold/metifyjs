@@ -1,4 +1,4 @@
-# _Metify_
+# _Metify 1.1_
 
 _Javascript class which allows Shopify store owners and/or developers the ability to block out product.content / product.description content._
 
